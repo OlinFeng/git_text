@@ -1,0 +1,5 @@
+var name  = 'olinf';
+var 'age' = 23;
+fucntion sayHi(){
+	console.log('my name is' + name...);
+}
